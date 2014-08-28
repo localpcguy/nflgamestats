@@ -16,5 +16,10 @@
     "game"
   ],
   "author": "Mike Behnke",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-sass": "^0.7.3",
+    "lodash": "^2.4.1"
+  }
 }
