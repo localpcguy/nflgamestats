@@ -1,0 +1,20 @@
+{
+  "name": "NFLGameStats",
+  "version": "0.0.0",
+  "description": "Node utility to provide a basic API against the JSON feed the powers the NFL.com live GameCenter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nfl",
+    "football",
+    "fantasy",
+    "stats",
+    "nfl.com",
+    "gamecenter",
+    "game"
+  ],
+  "author": "Mike Behnke",
+  "license": "MIT"
+}
